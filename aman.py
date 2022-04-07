@@ -1805,7 +1805,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f" 𝙋𝙄𝙉𝙂 !\n`{ms}` ms{ALIVE_NAME} ❀❀ɖǟʀӄǟʍǟռ ɖǟʀӄ ʍʊʟȶɨ ֆքǟʍ ɮօȶ❀❀")
+        await event.edit(f" 𝙋𝙄𝙉𝙂 !\n`{ms}` ms{ALIVE_NAME} 𝐓𝐞𝐫𝐚 𝐁𝐚𝐚𝐩 𝐌𝐫.𝐱{@aloneee_boyyy} ")
 
 
 
